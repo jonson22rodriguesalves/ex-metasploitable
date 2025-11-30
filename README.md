@@ -131,4 +131,4 @@
 * Logs completos do enum4linux
 * Capturas de tela do processo de teste
 * Configurações de rede do ambiente virtualizado
-* Relatório gerado em 30/11/2025 - Para fins educacionais e de testes autorizados
+* Relatório gerado em 30/11/2025 - Para fins educacionais e de testes autorizados.
